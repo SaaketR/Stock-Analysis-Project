@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp_COP_4365
+namespace WindowsFormsApp
 {
     /// <summary>
     /// Recognizer class keeping track of the pattern names and lengths
