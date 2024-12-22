@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Windows.Forms.DataVisualization.Charting;
 
-namespace WindowsFormsApp_COP_4365
+namespace WindowsFormsApp
 {
     /// <summary>
     /// Form class containing methods to load a stock, filter candlestick data, update stock data, displaying candlestick
