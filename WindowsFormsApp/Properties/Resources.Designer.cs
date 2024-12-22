@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WindowsFormsApp_COP_4365.Properties
+namespace WindowsFormsApp.Properties
 {
 
 
