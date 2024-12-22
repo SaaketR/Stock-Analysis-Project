@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp_COP_4365
+﻿namespace WindowsFormsApp
 {
     partial class Form_StockViewer
     {
@@ -179,7 +179,7 @@
             // 
             // candlestickBindingSource
             // 
-            this.candlestickBindingSource.DataSource = typeof(WindowsFormsApp_COP_4365.SmartCandlestick);
+            this.candlestickBindingSource.DataSource = typeof(WindowsFormsApp.SmartCandlestick);
             // 
             // Form_StockViewer
             // 
