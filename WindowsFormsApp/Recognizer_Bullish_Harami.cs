@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp_COP_4365
+namespace WindowsFormsApp
 {
     internal class Recognizer_Bullish_Harami : Recognizer
     {
