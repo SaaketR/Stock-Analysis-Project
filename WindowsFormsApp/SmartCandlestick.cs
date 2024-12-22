@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WindowsFormsApp_COP_4365
+namespace WindowsFormsApp
 {
     /// <summary>
     /// Smart Candlestick class containing range, topPrice, bottomPrice, bodyRange, and upperTail, and lowerTail attributes
